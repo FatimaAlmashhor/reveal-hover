@@ -1,3 +1,8 @@
+// I take the idea from codrops
+
+
+
+
 
 // this function for get the mouse position 
 // from http://www.quirksmode.org/js/events_properties.html#position
